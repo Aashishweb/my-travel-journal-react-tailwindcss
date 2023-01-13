@@ -5,6 +5,6 @@ import './styles/tailwind.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   
-    <App />
+    <App />,
   
 )
