@@ -1,5 +1,5 @@
 export default function Card(props){
-    console.log(props.imageUrl)
+    
     return(
         
         <div className="flex flex-row max-w-xl mx-3 sm:mx-auto  items-center border-b py-12 border-gray-200
