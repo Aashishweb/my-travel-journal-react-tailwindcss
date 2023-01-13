@@ -5,7 +5,7 @@ import data from "../data/data"
 
 function App() {
  const cards= data.map(item=>{
-  console.log(item.imageUrl)
+
   return (
     <Card 
         key={item.id}
